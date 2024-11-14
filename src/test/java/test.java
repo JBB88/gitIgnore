@@ -3,7 +3,9 @@ public class test {
          int x = 5;
          int y =10;
          int result = x*y;
+         int sum = x+y;
         System.out.println(result);
+        System.out.println(sum);
 
     }
 }
